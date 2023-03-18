@@ -23,6 +23,7 @@ This is a web application that allows you to convert numbers between binary and 
 ### Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
-License
+
+### License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
