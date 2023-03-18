@@ -3,22 +3,22 @@
 This is a web application that allows you to convert numbers between binary and decimal.
 ### Features
 
-    Convert binary to decimal
-    Convert decimal to binary
-    Real-time conversion as you type
-    Simple and easy-to-use interface
+    - Convert binary to decimal
+    - Convert decimal to binary
+    - Real-time conversion as you type
+    - Simple and easy-to-use interface
 
 ### Technologies Used
 
-    HTML
-    CSS
-    JavaScript
+    - HTML
+    - CSS
+    - JavaScript
 
 ### How to Use
 
-    Open the index.html file in your web browser.
-    Type a binary or decimal number in the input field.
-    The conversion will be displayed in the output field in real-time.
+    1. Open the index.html file in your web browser.
+    2. Type a binary or decimal number in the input field.
+    3. The conversion will be displayed in the output field in real-time.
 
 ### Contributing
 
